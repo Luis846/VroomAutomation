@@ -4,7 +4,7 @@
   "description": "carmaxautomation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "chromeTest": "npm run test -- --browser chrome"
   },
   "author": "Luis",
   "license": "ISC",
